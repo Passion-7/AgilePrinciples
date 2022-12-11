@@ -1,0 +1,7 @@
+@startuml
+scale 1
+
+class test
+
+
+@enduml 
